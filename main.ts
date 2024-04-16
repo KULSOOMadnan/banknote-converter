@@ -42,6 +42,8 @@ let transmogrify = await inquirer.prompt(
 let fromAmount = currency[transmogrify.from]
 let toAmount = currency[transmogrify.to];
 let Amount = transmogrify.amount
+
+// formula of currency converter 
 let divide = Amount / fromAmount
 let convertAmo = divide * toAmount
 let answer = Math.floor(convertAmo);
