@@ -1,5 +1,5 @@
 <i>
-# Currency Converter💱
+<h1>Currency Converter💱</h1>
 
 Currency Note Converter is a simple application that allows users to convert the value of a currency note from one denomination to another.
 
