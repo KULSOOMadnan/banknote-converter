@@ -2,6 +2,7 @@
 <h1>Currency Converter💱</h1>
 
 Currency Note Converter is a simple application that allows users to convert the value of a currency note from one denomination to another.
+Whether you're traveling abroad, shopping online from international retailers, or managing finances across multiple countries, Currency Converter provides a convenient way to calculate currency conversions in real-time.
 
 ## Features✨
 
