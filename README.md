@@ -1,3 +1,4 @@
+<i>
 # Currency Converter💱
 
 Currency Note Converter is a simple application that allows users to convert the value of a currency note from one denomination to another.
@@ -15,3 +16,4 @@ Currency Note Converter is a simple application that allows users to convert the
 <p> This project is licensed under the [ISC License].</p>
 
 <H2>THANK YOU❤️</H2>
+</i>
